@@ -18,6 +18,6 @@ end
 
 def id_hash_generator(number)
     numbers = {
-    value: number
+    id: number
   }
 end
