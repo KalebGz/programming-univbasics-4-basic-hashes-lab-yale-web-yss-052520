@@ -17,7 +17,7 @@ end
 
 
 def id_hash_generator(number)
-    my_rs = {
-    name: "Grace Hopper"
+    numbers = {
+    value: number
   }
 end
